@@ -16,4 +16,4 @@ Aplicación Java que demuestra el uso de las librerías **Apache Commons CLI** y
 ## 🛠️ Configuración
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/crnavarro88/ProgramacionVanguardiaTPS/Actividad2.git
+   git clone https://github.com/crnavarro88/ProgramacionVanguardiaTPS/Actividad2/README.md
